@@ -32,7 +32,7 @@ You can explore the interactive dashboard on Tableau Public:
 ---
 
 ## **Dashboard Preview**
-![Customer Churn Dashboard](images/dashboard-preview.png)  
+![Customer Churn Dashboard](https://github.com/Miras98/Churn-Analysis/blob/3305357342bb1bd0e9c9a41b23a728776eb09bed/dataset/Churn%20preview.PNG)
 
 ---
 
@@ -102,12 +102,3 @@ The analysis is based on the following datasets:
 ## **Usage**
 - Open Tableau Desktop and load the datasets.
 - Modify or create new visualizations to gain further insights.
-
-
-    ```
-5. Open a pull request.
-
----
-
-## **License**
-This project is licensed under the MIT License - see the [LI
